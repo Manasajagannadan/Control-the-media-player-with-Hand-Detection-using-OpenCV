@@ -1,6 +1,7 @@
 # Control-the-media-player-with-Hand-Detection-using-OpenCV
 ## Controling the media player with Hand Detection form scratch to professional
-1. Project 1:
+Project 1:
+
 Hi there,
 Here I am working on "Control_media_player_with_Hand_Detection_using_OpenCV".
 
